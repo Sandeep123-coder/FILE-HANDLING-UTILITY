@@ -35,3 +35,11 @@ After modifying the content, the program writes the updated list of lines back t
 
 The Modifyfile class highlights an efficient approach for modifying large files or performing batch updates to the data. By reading all the lines into memory, the program can make targeted changes to the content and then write the modified data back to the file.
 
+*OUTPUT* : 
+
+![Image](https://github.com/user-attachments/assets/42f307cb-ebfa-4c80-a01a-8a76fde8f17f)
+
+![Image](https://github.com/user-attachments/assets/b7f426b7-0931-481e-a6bf-199edccef96a)
+
+![Image](https://github.com/user-attachments/assets/addb29dc-d25a-4db0-984e-e7affbafec7f)
+
